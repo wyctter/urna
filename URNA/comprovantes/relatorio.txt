@@ -1,0 +1,5 @@
+DEPUTADOS FEDERAIS:{'nulo': 0, 'branco': 0, '0001': 1, '0002': 1, '0003': 0} 
+DEPUTADOS ESTADUAIS{'nulo': 1, 'branco': 1, '00001': 0} 
+SENADORES{'nulo': 1, 'branco': 0, '001': 1} 
+GOVERNADORES{'nulo': 1, 'branco': 1, '01': 0, '02': 0} 
+PRESIDENTE{'nulo': 1, 'branco': 1, '01': 0, '02': 0, '03': 0, '04': 0} 
